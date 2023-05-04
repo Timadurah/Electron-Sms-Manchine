@@ -1,5 +1,5 @@
 # Electron-Sms-Manchine
-white this manching software writting in electron youy can send sms form the software with customize id name bulk phones and what ever you wana send as description
+with this software writting in electron js you can send sms from the software with customize iD name, bulk phones and what ever you wana send as description
 to install it 
 #npm install
  you can download the testing from here 
